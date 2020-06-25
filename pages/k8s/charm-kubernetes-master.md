@@ -681,4 +681,6 @@ This action restarts the master processes `kube-apiserver`,
 [IPVS deep dive]: https://kubernetes.io/blog/2018/07/09/ipvs-based-in-cluster-load-balancing-deep-dive/
 [blog-admission]: https://kubernetes.io/blog/2019/03/21/a-guide-to-kubernetes-admission-controllers/
 [Addons page]: /kubernetes/docs/cdk-addons
+<<<<<<< HEAD
 [certs-and-trust]: /kubernetes/docs/certs-and-trust
+
